@@ -1,11 +1,11 @@
-//Daniel stepanenko
+//Daniel sko
 //A2 Major assigment
 //Guess my number
 //This program creates a game where you guess from 1 to 1000
 //You only get 10 tries to guess the number, Trying again is possible
 
 import java.util.*;
-public class a2MajorStepanenkoDaniel {
+public class a2MajorDaniel {
 ;
    public static void main(String[] args) { 
       Scanner keyboard = new Scanner(System.in);
