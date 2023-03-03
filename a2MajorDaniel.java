@@ -15,7 +15,7 @@ public class a2MajorDaniel {
    
    //Game name
       System.out.println("Guess my number game");
-      System.out.println("Created by Daniel Stepanenko");
+      System.out.println("Created by Daniel Sko");
       System.out.println("");
    
    
